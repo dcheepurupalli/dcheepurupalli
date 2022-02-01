@@ -4,7 +4,6 @@
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 Completed Masters in Bits Pilani WILP.
 - 💼 Working as a Lead Full-Stack Engineer.
-- 👨‍💻 Checkout my work at https://dcheepurupalli.com
 - 🌱 Learning more about DevOps, Front-end and Back-end technologies.
 - 📫 How to reach me: dileep.cheepurupalli@gmail.com
 
